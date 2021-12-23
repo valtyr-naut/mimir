@@ -1,2 +1,2 @@
 # mimir
-A general purpose VI capable of formatting and evaluating datasets.
+A VI capable of creating and evaluating datasets of hashes.
